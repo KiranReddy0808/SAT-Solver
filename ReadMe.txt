@@ -1,6 +1,7 @@
+#h1 SAT SOLVER
 Implemented SAT Solver in Python using CDCL logic.
 
-Run:
+#h3 Run:
 $ python SAT-Solver.py [input_file]
 
 
